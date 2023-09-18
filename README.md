@@ -1,24 +1,24 @@
-# Form-Basico-Django
+# Form-Basic-Django
 
-# Ejercicio de Integración de JavaScript con Django
+# JavaScript Integration Exercise with Django
 
-En este repositorio, he completado un ejercicio práctico que demuestra la integración de JavaScript con el marco de desarrollo web Django. El ejercicio se basa en el contenido de un curso de Coursera sobre desarrollo web Full Stack, específicamente en la semana 3, titulada "Fetching data using JavaScript".
+In this repository, I have completed a hands-on exercise that demonstrates the integration of JavaScript with the Django web development framework. The exercise is based on content from a Coursera course on Full Stack web development from META, specifically week 3, titled "Fetching data using JavaScript".
 
-**Objetivo del Ejercicio:**
+Goal of the Exercise:** **Objective of the Exercise:**
 
-El objetivo principal de este ejercicio es mostrar cómo se puede utilizar JavaScript en conjunto con Django para procesar un formulario en una aplicación web. 
-Se centra en la creación de un formulario basico con la inegración de Javascript, Python(Django) y mySQL.
+The main objective of this exercise is to show how JavaScript can be used in conjunction with Django to process a form in a web application. 
+It focuses on creating a basic form with the integration of JavaScript, Python(Django) and mySQL.
 
-**Aprendizajes Adquiridos:**
+Lessons Learned: **Learnings Acquired: **
 
-A través de este ejercicio, he aprendido cómo integrar efectivamente JavaScript en una aplicación Django para interactuar con el backend y el frontend de una aplicación web. También he ganado experiencia en el manejo de formularios, solicitudes POST y la manipulación de datos JSON en el contexto de desarrollo web.
+Through this exercise, I have learned how to effectively integrate JavaScript into a Django application to interact with the backend and frontend of a web application. I have also gained experience in handling forms, POST requests and manipulating JSON data in the context of web development.
 
-Este repositorio incluye el código fuente completo del ejercicio, que puede ser útil como referencia para futuros proyectos que requieran interacción entre el frontend y el backend en una aplicación Django.
+This repository includes the complete source code of the exercise, which may be useful as a reference for future projects that require interaction between the frontend and backend in a Django application.
 
-¡Siéntete libre de explorar el código y utilizarlo como recurso en tus propios proyectos de desarrollo web!
+Feel free to explore the code and use it as a resource in your own web development projects!
 
 
-**Tecnologías Utilizadas:**
+**Technologies Used:** 
 
 -Javascript
 
@@ -27,3 +27,4 @@ Este repositorio incluye el código fuente completo del ejercicio, que puede ser
 -Django
 
 -MySQL
+
