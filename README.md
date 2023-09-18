@@ -16,3 +16,10 @@ A través de este ejercicio, he aprendido cómo integrar efectivamente JavaScrip
 Este repositorio incluye el código fuente completo del ejercicio, que puede ser útil como referencia para futuros proyectos que requieran interacción entre el frontend y el backend en una aplicación Django.
 
 ¡Siéntete libre de explorar el código y utilizarlo como recurso en tus propios proyectos de desarrollo web!
+
+
+**Tecnologías Utilizadas:**
+-Javascript
+-Python
+-Django
+-MySQL
