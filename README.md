@@ -19,7 +19,11 @@ Este repositorio incluye el código fuente completo del ejercicio, que puede ser
 
 
 **Tecnologías Utilizadas:**
+
 -Javascript
+
 -Python
+
 -Django
+
 -MySQL
