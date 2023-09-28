@@ -9,8 +9,6 @@ Goal of the Exercise:** **Objective of the Exercise:**
 The main objective of this exercise is to show how JavaScript can be used in conjunction with Django to process a form in a web application. 
 It focuses on creating a basic form with the integration of JavaScript, Python(Django) and mySQL.
 
-Lessons Learned: **Learnings Acquired: **
-
 Through this exercise, I have learned how to effectively integrate JavaScript into a Django application to interact with the backend and frontend of a web application. I have also gained experience in handling forms, POST requests and manipulating JSON data in the context of web development.
 
 This repository includes the complete source code of the exercise, which may be useful as a reference for future projects that require interaction between the frontend and backend in a Django application.
