@@ -4,7 +4,7 @@
 
 In this repository, I have completed a hands-on exercise that demonstrates the integration of JavaScript with the Django web development framework. The exercise is based on content from a Coursera course on Full Stack web development from META, specifically week 3, titled "Fetching data using JavaScript".
 
-Goal of the Exercise:** **Objective of the Exercise:**
+#Objective of the Exercise:
 
 The main objective of this exercise is to show how JavaScript can be used in conjunction with Django to process a form in a web application. 
 It focuses on creating a basic form with the integration of JavaScript, Python(Django) and mySQL.
